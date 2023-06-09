@@ -1,0 +1,73 @@
+
+h2{
+    text-align: center;
+    justify-content: center;
+    font-size: 40px;
+
+
+}
+#first{
+    text-align: center;
+    margin:20px;
+}
+#second{
+    text-align: center;
+    margin: 20px;
+}
+#btn{
+    text-align: center;
+
+    
+
+}
+
+
+button{
+    width: 100px;
+    height: 40px;
+    background-color:violet;
+
+}
+select{
+    width: 40%;
+    height:22px;
+    background-color:violet;
+
+}
+input{
+    height: 30px;
+    background-color: violet;
+}
+
+.inner-box{
+   
+   padding: 20px; 
+   box-shadow:10px 10px 10px 10px rosybrown ;
+   background: transparent;
+   backdrop-filter:blur(25px);
+   
+   
+ } 
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+display: flex;
+align-items: center;
+justify-content: center;
+text-align: center;
+min-height: 100vh;
+
+background: url(img5.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+
+
+
+
+}
+h2{
+    font-size: 40px;
+}
